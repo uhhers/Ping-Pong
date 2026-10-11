@@ -1,1 +1,1 @@
-test
+Ping Pong adalah game sederhana berbasis Python yang dibuat menggunakan library Pygame. Game ini dimainkan oleh dua pemain yang saling memantulkan bola menggunakan racket  agar bola tidak melewati area permainan masing-masing
